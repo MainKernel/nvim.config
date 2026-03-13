@@ -18,6 +18,7 @@ return {
         { "<leader>g", group = "Git" },
         { "<leader>b", group = "Буфери" },
 	{ "<leader>q", group = "Сесії/Вихід" },
+	{ "<leader>s", group = "Пошук (Search)"},
       })
     end,
   }

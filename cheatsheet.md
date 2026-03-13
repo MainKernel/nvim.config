@@ -1,4 +1,11 @@
 # 🚀 Базова пам'ятка Neovim
+## TODO Coments plugin
+TODO:
+PREF:
+HACK:
+NOTE:
+FIX:
+WARNING:
 
 ## 🧭 Навігація
 `h` `j` `k` `l`  — Вліво, Вниз, Вгору, Вправо
