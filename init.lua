@@ -44,6 +44,11 @@ vim.api.nvim_create_autocmd("BufNewFile", {
   pattern = "Makefile",
   command = "0r ~/.config/nvim/templates/Makefile.c",
 })
+-- Автоматичне заповнення main.c шаблона
+vim.api.nvim_create_autocmd("BufNewFile", {
+	pattern = "main.c",
+	command = "0r ~/.config/nvim/templates/main.c",
+})
 -- =================================================================================================
 --                                  Зовнішній вигляд та інтерфейс
 -- =================================================================================================
